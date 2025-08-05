@@ -1,0 +1,12 @@
+{
+  "name": "EthOS Farmer",
+  "short_name": "EthOS Farmer",
+  "id": "com.example.platformer",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
